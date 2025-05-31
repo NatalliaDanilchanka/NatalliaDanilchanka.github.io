@@ -21,7 +21,6 @@ Questions? Email me at:
 | Project Link | Completion Date | Area | Tools | Project Description | 
 |---|---|---|---|
 | 🚗 [Coffee sales analysis](https://github.com/NatalliaDanilchanka/CS50_R) | May 2025 | Visualization & Analysis | Excel | Explore the sales data for coffee in different regions and create Excel dashboard for data exploration |  
-|---|---|---|---|
 | 👩🏻‍💻 [CS50P - Ongoing](https://github.com/NatalliaDanilchanka/CS50P/blob/main/README.md) | Programming | Python | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). |
 
 ***
