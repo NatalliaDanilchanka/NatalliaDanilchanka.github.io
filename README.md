@@ -8,9 +8,9 @@ Questions? Email me at:
 #### Technical Skills: Python, SQL
 
 ## Education
-- M.S., Systems Engineering with Embedded systems  		
-- B.S., Matematikk med informatikk: Data Science
-- Higher education, Automation of technological processes and production
+- M.S. |  Systems Engineering with Embedded systems  		
+- B.S. |  Matematikk med informatikk: Data Science
+- Higher education | Automation of technological processes and production
 
 ## Work Experience
 **add titles**
