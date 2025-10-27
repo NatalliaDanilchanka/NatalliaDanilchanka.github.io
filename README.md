@@ -25,8 +25,8 @@ Questions? Email me at:
 
 | Project Link | Completion Date | Area | Tools | Project Description | 
 |---|---|---|---|------|
-| 🚗 [Coffee sales analysis](https://github.com/NatalliaDanilchanka/CS50_R) | May 2025 | Visualization & Analysis | Excel | Explore the sales data for coffee in different regions and create Excel dashboard for data exploration | 
-| 👩🏻‍💻 [CS50P](https://github.com/NatalliaDanilchanka/CS50P/blob/main/README.md) | In progress | Programming | Python | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). |
+| 🚗 [Developer's Salary Dashboard in Norway, 2024](https://github.com/NatalliaDanilchanka/Excel_projects/blob/main/README.md) | Sept 2025 | Visualization & Analysis | Excel | Explore the Salaries for Norwegian Developers | 
+| 👩🏻‍💻 [Leetcode_30_day_of_Pandas](https://github.com/NatalliaDanilchanka/Leetcode_30_day_of_Pandas) | In progress | Programming | Python Pandas| This repo contains the solution to the problem sets in [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/). |
 
 ***
 
